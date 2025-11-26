@@ -1,0 +1,20 @@
+
+- Found with google search for: "smalltalk java vm smallworld"
+
+- Check also: redline, Magik, http://www.bergel.eu/athena/, ...
+
+
+The origin of this download:
+============================
+
+
+from   : https://github.com/russellallen/SmallWorld
+at     : 2016-10-24 -- 13:40 -- (UTC +01:00) Amsterdam, Berlin, ...
+as     : SmallWorld-master.russellallen.zip
+size   : 158.942  bytes
+
+
+with git status: Latest commit 4e6b9d8 on 13 Feb 2015
+
+(works with Java JRE 1.6, and may be lower?)
+
